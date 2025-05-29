@@ -1,0 +1,6 @@
+Django==4.2.6
+djangorestframework==3.14.0
+mysqlclient==2.2.0
+django-filter==23.5
+python-jose==3.3.0
+redis==4.6.0
